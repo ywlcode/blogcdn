@@ -18,4 +18,4 @@ https://cdn.jsdelivr.net/npm/katex@0/dist/contrib/copy-tex.min.js
 https://cdn.jsdelivr.net/npm/katex@0/dist/contrib/copy-tex.min.css
 
 
-$A_{B^c}^{m}$
+### This sentence uses $ delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
