@@ -16,3 +16,6 @@ https://cdn.jsdelivr.net/npm/velocity-animate@1/velocity.ui.min.js
 https://cdn.jsdelivr.net/npm/katex@0/dist/katex.min.css
 https://cdn.jsdelivr.net/npm/katex@0/dist/contrib/copy-tex.min.js
 https://cdn.jsdelivr.net/npm/katex@0/dist/contrib/copy-tex.min.css
+
+
+$A_{B^c}^{m}$
